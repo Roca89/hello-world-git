@@ -6,6 +6,8 @@ public class index {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World2!");
 		System.out.println("Nuevo titulo!");
+		System.out.println("Merge con Master");
+
 
 	}
 
