@@ -8,8 +8,7 @@ public class index {
 		System.out.println("Nuevo titulo!");
 		System.out.println("Merge con Master");
 		System.out.println("Modificaciones Albert");
-
-
+		System.out.println("Modificaciones Jordi");
 	}
 
 }
