@@ -10,6 +10,8 @@ public class index {
 		System.out.println("Modificaciones Albert");
 		System.out.println("Modificaciones Jordi");
 		System.out.println("Segundas modificaciones Albert");
+		System.out.println("A�adiendo una Imagen a la web");
+		System.out.println("Modificaciones segundas de Jordi");
 	
 
 
